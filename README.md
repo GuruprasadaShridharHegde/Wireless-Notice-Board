@@ -24,3 +24,6 @@ It is not like traditional system.The developed system reflects the minimum requ
 We have been using notice boards to display messages in offices, schools hospitals etc. from a long time. But the major problem with these notice boards are every time we need to change the message we have to go there and then erase previous message and then write the new one. So this project is a solution to this problem as it wireless technology Bluetooth which provides us the facility to change message on notice boards from distant mobile phone that is operated on android OS to do the same a application is built with the graphical interface to change the message.
 Fully android control gives the user to multi functionalities like speech to text,all sensor readings,terminal,mobile notifications like SMS,facebook or whatsapp and also mobile battery percentage.It is one of the real time application used in different fields.
 
+1.6.1 BLOCK DIAGRAM:
+![image](https://user-images.githubusercontent.com/85961223/156809162-3797d672-9cb6-4f44-bf37-c79a3a0c344e.png)
+
